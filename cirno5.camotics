@@ -1,0 +1,17 @@
+{
+      "units": "metric",
+      "resolution-mode": "medium",
+      "resolution": 1,
+      "tools": {},
+      "workpiece": {
+        "automatic": true,
+        "margin": 5,
+        "bounds": {
+          "min": [6, 5.05, -2.31],
+          "max": [94, 91.95, 0]
+        }
+      },
+      "files": [
+        "cirno5.NC"
+      ]
+    }
